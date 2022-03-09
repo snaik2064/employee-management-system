@@ -1,0 +1,10 @@
+<svg id="download" xmlns="http://www.w3.org/2000/svg" width="24" height="26" viewBox="0 0 24 26">
+  <g id="download-2" data-name="download" transform="translate(24 26) rotate(180)">
+    <rect id="Rectangle_140" data-name="Rectangle 140" width="24" height="24" transform="translate(0 2)" fill="#00a333" opacity="0"/>
+    <rect id="Rectangle_141" data-name="Rectangle 141" width="16" height="2" rx="1" transform="translate(3)" fill="#00a333"/>
+    <rect id="Rectangle_142" data-name="Rectangle 142" width="4" height="2" rx="1" transform="translate(3 5) rotate(-90)" fill="#00a333"/>
+    <rect id="Rectangle_143" data-name="Rectangle 143" width="4" height="2" rx="1" transform="translate(17 5) rotate(-90)" fill="#00a333"/>
+    <path id="Path_563" data-name="Path 563" d="M5,5a1,1,0,0,1-.58-.18L.421,2A1,1,0,1,1,1.581.37L5,2.76,8.4.2A1,1,0,1,1,9.6,1.8l-4,3A1,1,0,0,1,5,5Z" transform="translate(5.999 12)" fill="#00a333"/>
+    <path id="Path_564" data-name="Path 564" d="M1,10A1,1,0,0,1,0,9V1A1,1,0,0,1,2,1V9A1,1,0,0,1,1,10Z" transform="translate(10 5)" fill="#00a333"/>
+  </g>
+</svg>
